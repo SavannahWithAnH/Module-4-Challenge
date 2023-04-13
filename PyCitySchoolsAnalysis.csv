@@ -1,0 +1,7 @@
+PyCitySchools Analysis
+
+-It was determined that there are 15 unique schools, totalling 39,170 students, with a total budget of $24,649,428.00. The average math and reading scores were calculated, as well as percentage passing for each. The overall pass rate for both subjects was determined to be 65.1. Student counts by school were gathered, to determine budget per capita. A summary per school was created gathering the top and bottoming performing schools. Scores by grade and Scores by school spending were calculated. Scores by school size and type were determined, and finally a table was created to summarize the data.
+
+Takeaways:
+-The budget per student averages higher in schools that have the lesser performance percentage. 
+-Bailey Highschool performs well in both Math and Reading in comparison to others in the dataset.
